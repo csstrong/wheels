@@ -27,6 +27,7 @@
         <module>HappyParse</module>
         <module>PlayCenter</module>
         <module>JVM</module>
+        <module>Test</module>
     </modules>
 
 
