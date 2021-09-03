@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Annotation/Annotation.iml" filepath="$PROJECT_DIR$/Annotation/Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cache/Cache.iml" filepath="$PROJECT_DIR$/Cache/Cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Compiler/Compiler.iml" filepath="$PROJECT_DIR$/Compiler/Compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HappyParse/HappyParse.iml" filepath="$PROJECT_DIR$/HappyParse/HappyParse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Instrument/Instrument.iml" filepath="$PROJECT_DIR$/Instrument/Instrument.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSONParse/JSONParse.iml" filepath="$PROJECT_DIR$/JSONParse/JSONParse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVM/JVM.iml" filepath="$PROJECT_DIR$/JVM/JVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MQ/MQ.iml" filepath="$PROJECT_DIR$/MQ/MQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ORM/ORM.iml" filepath="$PROJECT_DIR$/ORM/ORM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PageReplace/PageReplace.iml" filepath="$PROJECT_DIR$/PageReplace/PageReplace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlayCenter/PlayCenter.iml" filepath="$PROJECT_DIR$/PlayCenter/PlayCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC/RPC.iml" filepath="$PROJECT_DIR$/RPC/RPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflection/Reflection.iml" filepath="$PROJECT_DIR$/Reflection/Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCore/SpringCore.iml" filepath="$PROJECT_DIR$/SpringCore/SpringCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToYaml/ToYaml.iml" filepath="$PROJECT_DIR$/ToYaml/ToYaml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Netty/netty.iml" filepath="$PROJECT_DIR$/Netty/netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NIO/nio.iml" filepath="$PROJECT_DIR$/NIO/nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wheel.iml" filepath="$PROJECT_DIR$/wheel.iml" />
+    </modules>
+  </component>
+</project>

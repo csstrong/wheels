@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JVM" />
+        <module name="Compiler" />
+        <module name="RPC" />
+        <module name="PlayCenter" />
+        <module name="MQ" />
+        <module name="PageReplace" />
+        <module name="ThreadPool" />
+        <module name="Reflection" />
+        <module name="ORM" />
+        <module name="Annotation" />
+        <module name="JSONParse" />
+        <module name="HappyParse" />
+        <module name="nio" />
+        <module name="Test" />
+        <module name="Instrument" />
+        <module name="SpringCore" />
+        <module name="Cache" />
+        <module name="netty" />
+        <module name="ToYaml" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Annotation" target="8" />
+      <module name="Cache" target="1.5" />
+      <module name="Compiler" target="1.5" />
+      <module name="HappyParse" target="1.5" />
+      <module name="Instrument" target="1.8" />
+      <module name="JSONParse" target="8" />
+      <module name="JVM" target="1.5" />
+      <module name="MQ" target="8" />
+      <module name="netty" target="6" />
+      <module name="nio" target="7" />
+      <module name="ORM" target="8" />
+      <module name="PageReplace" target="8" />
+      <module name="PlayCenter" target="8" />
+      <module name="Reflection" target="8" />
+      <module name="RPC" target="8" />
+      <module name="SpringCore" target="8" />
+      <module name="Test" target="8" />
+      <module name="ThreadPool" target="8" />
+      <module name="ToYaml" target="6" />
+      <module name="wheel" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
